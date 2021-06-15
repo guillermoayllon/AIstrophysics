@@ -20,7 +20,7 @@ After the preprocessing we end up with three clean data sets:
 
 # CODE
 
-- Preprocessing_IR.ipynb: This notebook is used to download 50.000 spectra in the infrared band as .fits files, rearrange all data in a single .csv file, remove zeros, remove outliers and do the exploratory data analysis. The spectra in the infrared band is already normalize.
+- Preprocessing_IR.ipynb: This notebook is used to download 50.000 spectra in the infrared band as .fits files, rearrange all data in a single .csv file, remove zeros, remove outliers and do the exploratory data analysis. The spectra in the infrared band is already normalized.
 
 - Preprocessing_opt.ipynb: This notebook is used to download 50.000 spectra in the optical band as .fits files, rearrange all data in a single .csv file, remove zeros, normalize the spectra, remove outliers and do the exploratory data analysis. 
 
