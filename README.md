@@ -15,7 +15,7 @@ After the preprocessing we end up with three clean data sets:
 
 1. Full infrared spectra
 2. Full optical spectra
-3. Cut optical spectra around the Fe line, this will be used to derive the metallicity.
+3. Cut optical spectra around the Fe line, this is used to derive the metallicity.
 
 
 # CODE
