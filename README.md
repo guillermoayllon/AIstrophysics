@@ -24,6 +24,6 @@ After the preprocessing we end up with three clean data sets:
 
 - Preprocessing_opt.ipynb: This notebook is used to download 50.000 spectra in the optical band as .fits files, rearrange all data in a single .csv file, remove zeros, normalize the spectra, remove outliers and do the exploratory data analysis. 
 
--random_forest.ipynb: We apply a random forest architecture to derive the stellar parameters.
+- random_forest.ipynb: We apply a random forest architecture to derive the stellar parameters.
 
--Regression_notebook.ipynb: We apply a Multilayer Perceptron. It consists of 4 hidden layers with 120 neurons each. 
+- Regression_notebook.ipynb: We apply a Multilayer Perceptron. It consists of 4 hidden layers with 120 neurons each. 
